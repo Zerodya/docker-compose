@@ -64,16 +64,16 @@ services:
     restart: unless-stopped
 
   jellyseerr:
-     image: fallenbagel/jellyseerr:develop
-     container_name: jellyseerr
-     environment:
-       - LOG_LEVEL=debug
-       - TZ=Europe/Rome
-     ports:
-       - 5055:5055
-     volumes:
-       - ./jellyseerr_config:/app/config
-     restart: unless-stopped
-     depends_on:
-       - radarr
-       - sonarr
+    image: fallenbagel/jellyseerr:develop
+    container_name: jellyseerr
+    environment:
+      - LOG_LEVEL=debug
+      - TZ=Europe/Rome
+    ports:
+      - 5055:5055
+    volumes:
+      - ./jellyseerr_config:/app/config
+    restart: unless-stopped
+    depends_on:
+      - radarr
+      - sonarr
