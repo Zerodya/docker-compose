@@ -1,0 +1,16 @@
+---
+# For configuration options and examples, please see:
+# https://gethomepage.dev/en/configs/settings
+
+background: /images/nerv.png
+
+favicon: http://fc03.deviantart.net/fs71/f/2010/156/2/c/Nerv_Logo_by_maidenfan23.png
+
+title: Nerv HQ
+
+headerStyle: clean
+
+color: sky
+
+theme: dark
+
