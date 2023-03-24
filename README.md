@@ -1,16 +1,21 @@
-### Services:
+### Homepages
+![alt text](https://github.com/Zerodya/docker-compose/raw/main/homepage.png)
 
-- AFFiNE
-- Dashy
+***
+
+### Services
 - Diun
-- Downloading stack
+- Download server
   - Transmission
   - Jackett
-- Pihole
-- Streaming stack
+- Homepage
+- Media server
   - Jellyfin
   - Sonarr
   - Radarr
   - Bazaar
   - Jellyseerr
+- Pihole
+- Scrutiny
+- Speedtest Tracker
 - Uptime Kuma
