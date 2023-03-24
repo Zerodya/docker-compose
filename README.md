@@ -1,9 +1,7 @@
-### Homepages
+## Homepage
 ![alt text](https://github.com/Zerodya/docker-compose/raw/main/homepage.png)
 
-***
-
-### Services
+## Services
 - Diun
 - Download server
   - Transmission
