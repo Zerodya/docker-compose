@@ -3,17 +3,17 @@
 
 ## Services
 - Diun
-- Download server
+- Downloading stack
   - Transmission
   - Jackett
 - Homepage
-- Media server
+- Pihole
+- Scrutiny
+- Speedtest Tracker
+- Streaming stack
   - Jellyfin
   - Sonarr
   - Radarr
   - Bazaar
   - Jellyseerr
-- Pihole
-- Scrutiny
-- Speedtest Tracker
 - Uptime Kuma
